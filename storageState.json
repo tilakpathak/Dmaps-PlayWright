@@ -1,0 +1,14 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://dma-dev.naxa.com.np",
+      "localStorage": [
+        {
+          "name": "persist:user",
+          "value": "{\"user\":\"null\",\"userProfile\":\"null\",\"permissions\":\"[]\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        }
+      ]
+    }
+  ]
+}
